@@ -1,0 +1,23 @@
+{
+    "name": "@rehantesla/customnpmesm",
+    "version": "1.0.0",
+    "description": "Custom NPM",
+    "main": "./index.js",
+    "type": "module",
+    "files": ["index.js"],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RehanTesla/BotWhatsApp.git"
+    },
+    "bugs": {
+        "url": "https://github.com/RehanTesla/BotWhatsApp/issues"
+    },
+    "homepage": "https://github.com/RehanTesla/BotWhatsApp",
+    "keywords": ["bot", "whatsapp", "util"],
+    "author": "RehanTesla",
+    "license": "MIT",
+    "dependencies": {
+        "module": "^1.2.5",
+        "readline": "^1.0.0"
+    }
+}
